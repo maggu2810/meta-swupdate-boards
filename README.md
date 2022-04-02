@@ -8,29 +8,29 @@ Dependencies
 This layer depends on:
 
 * URI: git://git.openembedded.org/bitbake
-  * branch: master
+  * branch: dunfell
   * revision: HEAD
 
 * URI: git://git.openembedded.org/openembedded-core
-  * branch: master
+  * branch: dunfell
   * revision: HEAD
 
 or
 
 * URI: git://git.yoctoproject.org/poky
-  * branch: master
+  * branch: dunfell
   * revision: HEAD
 
 and
 
 * URI: git://github.com/sbabic/meta-swupdate.git
-  * branch: master
+  * branch: dunfell
   * revision: HEAD
 
 For usage with Raspberry Pi boards additional layer is required:
 
 * URI: git://github.com/agherzan/meta-raspberrypi.git
-  * branch: master
+  * branch: dunfell
   * revision: HEAD
 
 Usage
